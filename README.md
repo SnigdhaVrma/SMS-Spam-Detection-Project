@@ -79,8 +79,6 @@ This GitHub repository contains the code and dataset used for training and evalu
 
 ![image](https://github.com/SnigdhaVrma/SMS-Spam-Detection-Project/assets/133538251/cf61abdf-2afe-47bc-8c93-23187be13e12)
 -- 
---
-
 
 # Conclusion
 
