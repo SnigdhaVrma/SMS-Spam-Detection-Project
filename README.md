@@ -73,9 +73,12 @@ This GitHub repository contains the code and dataset used for training and evalu
 
 5. **Evaluation**: We evaluated the model's performance using various metrics, such as accuracy, precision, recall, and F1-score.
 
+![image](https://github.com/SnigdhaVrma/SMS-Spam-Detection-Project/assets/133538251/97e0cc7e-7eaa-42e1-92c6-a81c844ad73a)
+
+----
+
 ![image](https://github.com/SnigdhaVrma/SMS-Spam-Detection-Project/assets/133538251/cf61abdf-2afe-47bc-8c93-23187be13e12)
 -- 
-![Uploading image.png…]()
 --
 
 
