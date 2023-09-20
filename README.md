@@ -1,6 +1,9 @@
 # SMS-Spam-Detection-Project
 
 
+![1RSZNsh](https://github.com/SnigdhaVrma/SMS-Spam-Detection-Project/assets/133538251/9c98eef2-0086-4bc9-86bf-2fcbf1caa4d6)
+
+
 Text messaging has revolutionized communication in the modern world, but it comes with its own challenges, such as unwanted promotional messages that clutter our inboxes. The objective of this project is to develop a machine learning-based SMS spam detection system that can identify and filter out spam messages from legitimate ones. By achieving this, we aim to enhance the communication experience for mobile users and reduce the annoyance caused by unsolicited SMS messages.
 
 ## Project Overview
