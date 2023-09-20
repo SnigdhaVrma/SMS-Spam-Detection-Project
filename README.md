@@ -18,6 +18,10 @@ Unwanted SMS spam messages can be annoying and potentially harmful. The primary 
 
 ## Data Description
 
+
+![image](https://github.com/SnigdhaVrma/SMS-Spam-Detection-Project/assets/133538251/a91a8cf5-c2d3-4737-9a4a-da79e1a56e1a)
+
+
 The project relies on a dataset consisting of labeled SMS messages. Each message is labeled as "spam" or "ham." The dataset contains the following information:
 
 - **Text Content**: The actual text of the SMS messages.
@@ -31,10 +35,33 @@ The dataset is representative of real-world SMS messages and is divided into a t
 During the development of this SMS spam detection project, several challenges were encountered, leading to valuable learning experiences:
 
 - **Data Preprocessing**: Cleaning and preprocessing text data, including tokenization, stop-word removal, and feature extraction.
-- **Model Selection**: Choosing the most suitable Machine Learning algorithms and NLP techniques for the task.
+- **Model Selection**: Choosing the most suitable Machine Learning algorithms![image](https://github.com/SnigdhaVrma/SMS-Spam-Detection-Project/assets/133538251/fc702b00-80c3-4dac-9929-d4a09072398c)
+ and NLP techniques for the task.
 - **Imbalanced Data**: Handling class imbalance issues when dealing with a disproportionate number of spam and ham messages.
 - **Evaluation Metrics**: Selecting appropriate evaluation metrics to assess model performance, considering false positives and false negatives.
 - **Deployment**: Preparing the model for deployment, including integration into a user-friendly interface.
+
+![image](https://github.com/SnigdhaVrma/SMS-Spam-Detection-Project/assets/133538251/3f1ec8ec-d90d-4c35-b0cb-a5bc16578c4a)
+-----
+![image](https://github.com/SnigdhaVrma/SMS-Spam-Detection-Project/assets/133538251/c41eaa4a-5102-4d1f-8e58-5195f6fcc2f7)
+-----
+![image](https://github.com/SnigdhaVrma/SMS-Spam-Detection-Project/assets/133538251/a572628d-5178-4675-850d-af181ef4d599)
+----
+![image](https://github.com/SnigdhaVrma/SMS-Spam-Detection-Project/assets/133538251/e59557a0-c305-4d8b-bb8c-e748dfdebe6c)
+----
+![image](https://github.com/SnigdhaVrma/SMS-Spam-Detection-Project/assets/133538251/33028386-50a2-4bfe-bbfa-4ab49eb2293e)
+----
+![image](https://github.com/SnigdhaVrma/SMS-Spam-Detection-Project/assets/133538251/6ae3bbc6-ed0e-49b5-8c4a-fa239fac5025)
+----
+![Uploading image.png…]()
+----
+
+
+
+
+
+
+
 
   This project has provided insights into the practical application of NLP and Machine Learning for text classification tasks and has highlighted the importance of data preprocessing, model selection, and evaluation. We hope that this project serves as a valuable reference for those interested in SMS spam detection and NLP applications.
 
